@@ -17,7 +17,6 @@ This project implements a decentralized lending pool system on the Soroban block
 ## Project Setup
 
 To get started with the project, you'll need to have the following installed:
-- Node.js (for the frontend)
 - React (for the frontend application)
 - Soroban SDK (for interacting with the smart contract)
 
